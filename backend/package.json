@@ -1,0 +1,30 @@
+{
+  "name": "mlcToDoProjectName",
+  "version": "1.0.0",
+  "description": "mlcToDoDescription",
+  "main": "index.mjs",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alex21c/mlcToDoProjectName"
+  },
+  "keywords": [
+    "mlcToDoKeyword1",
+    "mlcToDoKeyword2",
+    "alex21c"
+  ],
+  "author": "Abhishek kumar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Alex21c/mlcToDoProjectName/issues"
+  },
+  "homepage": "https://github.com/Alex21c/mlcToDoProjectName#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "morgan": "^1.10.0"
+  }
+}
