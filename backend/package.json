@@ -4,7 +4,8 @@
   "description": "mlcToDoDescription",
   "main": "index.mjs",
   "scripts": {
-    "start": "node index.mjs"
+    "start": "node index.mjs",
+    "build": "npm install --prefix ./frontend && npm run build --prefix ./frontend && npm install"
   },
   "repository": {
     "type": "git",
